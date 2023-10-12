@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plataforma-gestion-tareas/static/css/main.4963aca4.css",
+    "main.js": "/plataforma-gestion-tareas/static/js/main.20b8117f.js",
+    "index.html": "/plataforma-gestion-tareas/index.html",
+    "main.4963aca4.css.map": "/plataforma-gestion-tareas/static/css/main.4963aca4.css.map",
+    "main.20b8117f.js.map": "/plataforma-gestion-tareas/static/js/main.20b8117f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4963aca4.css",
+    "static/js/main.20b8117f.js"
+  ]
+}
